@@ -1,7 +1,8 @@
 constantsMode = true;
 var test = "adads";
 var test = "adads";
-
+var test = "adads";
+var test = "adads";
 
 var lang= null;
 if(accedobroadband.querystring.getValue("lang") === null){
